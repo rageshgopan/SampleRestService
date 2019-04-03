@@ -1,0 +1,10 @@
+Insert into product (id, price,currency_code) 
+Values (13860428, 13.49,'USD’);
+Insert into product (id, price,currency_code) 
+Values (13860424, 12.49,'USD’);
+Insert into product (id, price,currency_code) 
+Values (13860425, 11.49,'USD’);
+Insert into product (id, price,currency_code) 
+Values (13860429, 14.49,'USD’);
+Insert into product (id, price,currency_code) 
+Values (13860420, 10.49,'USD’);

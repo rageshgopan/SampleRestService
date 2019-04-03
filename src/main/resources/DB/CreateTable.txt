@@ -1,0 +1,5 @@
+Create table myRetail.product(
+Id Bigint primary key,
+Price decimal,
+Currency_code text
+)
